@@ -1,8 +1,7 @@
 # ![invokefavicon20x20](https://user-images.githubusercontent.com/31807370/194769194-7626e180-aae5-43af-8e72-378c4e5dc097.png) Invoke**AI** 
 ## *Building an open source SD Toolkit for Pros and Enthusiasts* 
 
-![An image generated with the InvokeAI Toolkit showing the power of invocation.](https://user-images.githubusercontent.com/31807370/194768585-7ead08da-c4ad-48a0-ae2c-c29ecf1fa587.png)
-
+![An image generated with the InvokeAI Toolkit showing the power of invocation](https://user-images.githubusercontent.com/31807370/227003722-e88bcea7-2227-414e-a4dd-9a54cc880acd.png)
 
 Since the Stable Diffusion model was released, a group of individuals (beginning with @Lstein) have been working to bring together the best tools for generating high-quality images into a single, easy-to-use repo. In September 2022, the InvokeAI team officially formed to continue building this set of tools, and support the growing community of pros, enthusiasts, and developers building on Invoke.
 
