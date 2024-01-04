@@ -1,20 +1,25 @@
-# ![invokefavicon20x20](https://user-images.githubusercontent.com/31807370/194769194-7626e180-aae5-43af-8e72-378c4e5dc097.png) Invoke**AI** 
-## *Open-Source Creative AI for Professionals and Enthusiasts* 
+# <img width="20" alt="invoke-favicon" src="https://github.com/invoke-ai/.github/assets/31807370/b61ba128-382f-46cb-988d-42e0533fd4d9"> Invoke
+## *Creative AI for Professionals and Enthusiasts* - Learn more at [Invoke.Com](https://www.invoke.com/about)
 
-![An image generated with the InvokeAI Toolkit showing the power of invocation](https://user-images.githubusercontent.com/31807370/227003722-e88bcea7-2227-414e-a4dd-9a54cc880acd.png)
 
-Originally a fork by Dr. Lincoln Stein (@lstein) of the original Stable Diffusion CompVis repo, Invoke AI has evolved into a creative AI platform redefining how open sourced software and businesses get built.
+![Own Your Creative Power Header](https://github.com/invoke-ai/.github/assets/31807370/5c96b080-e606-4263-b370-20d2127ba721)
+
+Invoke is a team of passionate technologists and creatives working to build open-source software for creatives & enterprises to leverage the latest in AI visual media creation.
+
+In the earliest days of Stable Diffusion, Dr. Lincoln Stein (@lstein) started a small command line interface to run the original Stable Diffusion model. With a groundswell of community support, the tool evolved into a full-blown creative application centered around one idea - That creatives should be empowered with good open-sourced software in the age of AI. 
+
+Since then, Invoke has evolved into a creative AI platform redefining how open sourced software and businesses get built - We're working with artists and creatives to help them understand the evolution of intellectual property, develop new skillsets that extend their creative power, and create an ecosystem where creativity can thrive. We're also working with businesses and enterprises to build a business to sustain our mission, providing an enterprise-grade platform and professional services to help businesses develop and own their own creative IP. 
 
 Our team believes in the power of open source, and that the advent of AI requires a different approach to building technology. 
 
 ### 🌍 A community of Developers & Creators
 
-The community sits at the center of what we do. The features we work on and the path ahead for the toolkit is directly informed by user and developer feedback, as well as ideas/research shared by others in the community.
+The community sits at the center of what we do. The features we work on and the path ahead for our software is directly informed by the feedback of creatives and our developer community, as well as ideas/research shared by open-sourced researchers who share our perspective that technology should be open and permissively licensed at its core.
 
 We'd love to have you join us in building the future of this ecosystem -
 [Join our Discord](https://discord.gg/ZmtBAhwWhy)
 
-![An image generated with the InvokeAI Toolkit showing the power of invocation](https://github.com/invoke-ai/.github/assets/31807370/dbba564b-f6b9-4139-8f46-2b7b7ff628cc)
+![An image generated with the InvokeAI Toolkit showing the power of invocation](https://github.com/invoke-ai/.github/assets/31807370/9d9a6b33-9aab-4a16-bd47-ed96fdbb4e1e)
 
 
 ### **+!** Contributing to the ecosystem
